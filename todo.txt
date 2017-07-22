@@ -1,0 +1,16 @@
+MacProcess
+* get number under selection
+* prompt for variable name
+* find stuff at top.
+
+
+
+
+A collection of tools for editing processing files in sublime text
+
+* MakeItSlide
+    * turn a number into a slider variable
+    * select a number in the source code, hit a key combo
+    * get prompted for a variable name
+    * insert the variable at the top as a global and make a slider for it.
+    * or it should turn a local variable into a global.
