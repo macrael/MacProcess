@@ -1,14 +1,13 @@
 MacProcess
-* get number under selection
-* prompt for variable name
-* find stuff at top.
-
-
+x get number under selection
+x prompt for variable name
+x find stuff at top.
+x replace and insert
 
 
 A collection of tools for editing processing files in sublime text
 
-* MakeItSlide
+x MakeItSlide
     * turn a number into a slider variable
     * select a number in the source code, hit a key combo
     * get prompted for a variable name
