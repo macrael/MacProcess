@@ -31,7 +31,7 @@ class MakeItSlideCommand(sublime_plugin.TextCommand):
         for region in selections:
             variable = self.view.substr(region)
             self.region_to_replace = region
-            self.view.window().show_input_panel('Global Name for :"{}": '.format(variable), variable, self.create_slider, None, self.on_cancel)
+            self.view.window().show_input_panel('Global Name for :"{}": '.format(variable), '', self.create_slider, None, self.on_cancel)
 
     def on_cancel(self):
         region_to_replace = None

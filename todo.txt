@@ -3,6 +3,9 @@ x get number under selection
 x prompt for variable name
 x find stuff at top.
 x replace and insert
+* replace a whole variable definition and reuse the variable name.
+* move the window back to the initial range.
+* remove one based on name.
 
 
 A collection of tools for editing processing files in sublime text
